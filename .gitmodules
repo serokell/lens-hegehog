@@ -1,0 +1,3 @@
+[submodule "lens-laws"]
+	path = lens-laws
+	url = https://github.com/jdnavarro/lens-laws.git
