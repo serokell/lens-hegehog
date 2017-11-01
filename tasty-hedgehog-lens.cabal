@@ -10,7 +10,7 @@ maintainer:    hi@serokell.io
 copyright:     © 2017 Serokell
 category:      Testing, Lenses
 build-type:    Simple
-cabal-version: >= 1.8
+cabal-version: >= 1.10
 
 extra-source-files:
   README.md
